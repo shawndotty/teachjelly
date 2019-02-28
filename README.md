@@ -1,2 +1,0 @@
-# teachjelly
-Created with CodeSandbox
